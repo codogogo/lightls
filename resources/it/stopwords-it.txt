@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @codogogo
-Sign out
-1
-7 6 stopwords-iso/stopwords-it
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-stopwords-it/stopwords-it.txt
-879a009  29 days ago
-@genediazjr genediazjr rebuild it stopwords
-@genediazjr @ludomentis
-     
-660 lines (660 sloc)  4.22 KB
 a
 abbastanza
 abbia
@@ -200,6 +182,7 @@ dovunque
 due
 dunque
 durante
+è
 e
 ebbe
 ebbero
